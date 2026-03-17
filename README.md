@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently study on Çankaya University<br>🌱 I’m currently learning C, C++, C#
+🔭 I’m currently studying on Çankaya University<br>🌱 I’m currently learning C, C++, C#
 
 
 ## 🌐 Socials:
