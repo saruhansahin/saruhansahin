@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on Çankaya University<br>🌱 I’m currently learning C, C++, C#
+🔭 I’m currently studying on Çankaya University<br>🌱 I’m currently learning C, C++, C#, Java
 
 
 ## 🌐 Socials:
@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=saruhansahin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=saruhansahin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saruhansahin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saruhansahin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
